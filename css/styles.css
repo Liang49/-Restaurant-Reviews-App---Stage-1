@@ -52,7 +52,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
 nav {
   display: flex;
   width: 100%;
-  height: 80px;
+  height: 70px;
   background-color: #fa0404;
   text-align:center;
 }
@@ -67,17 +67,19 @@ nav h1 a {
   text-transform: uppercase;
 }
 #breadcrumb {
-    padding: 10px 40px 16px;
+    padding: 20px 40px 16px;
     list-style: none;
     background-color: #eee;
     font-size: 17px;
     margin: 0;
     width: calc(50% - 80px);
+    height: 20px;
 }
 
 /* Display list items side by side */
 #breadcrumb li {
     display: inline;
+    font-size: 19px;
 }
 
 /* Add a slash symbol (/) before/behind each list item */
@@ -91,6 +93,7 @@ nav h1 a {
 #breadcrumb li a {
     color: #0275d8;
     text-decoration: none;
+    font-size: 19px;
 }
 
 /* Add a color on mouse-over */
@@ -139,7 +142,7 @@ nav h1 a {
   background-color: #f3f3f3;
   list-style: outside none none;
   margin: 0;
-  padding: 30px 15px 60px;
+  padding: 20px;
   text-align: center;
 }
 #restaurants-list li {
@@ -278,3 +281,5 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
+
+
