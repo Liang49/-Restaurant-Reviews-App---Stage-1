@@ -1,5 +1,6 @@
 # Mobile Web Specialist Certification Course
----
+
+Live Demo https://liang49.github.io/Restaurant-Reviews-App/
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
 ## Project Overview: Stage 1
